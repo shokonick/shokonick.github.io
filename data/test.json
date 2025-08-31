@@ -1,0 +1,21 @@
+{
+   "type": "pages",
+   "headline": "שידור חי",
+   "template": {
+      "tag": "ברו",
+      "tagColor": "msx-green",
+      "type": "separate",
+      "layout": "0,0,2,3",
+      "icon": "msx-white-soft:lunch-dining",
+      "color": "msx-glass"
+   },
+   "items": [
+      {
+         "background": "https://i.ibb.co/xYPWzD2/image.jpg",
+         "title": "Audio 1",
+         "playerLabel": "Audio 1",
+         "image": "https://i.ibb.co/Rz8Pv13/image.jpg",
+         "action": "audio:http://stream.zeno.fm/5ffyfuy10f9uv.mp3"
+      }
+   ]
+}
