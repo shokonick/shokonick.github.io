@@ -1,0 +1,6 @@
+{    
+    "name": "Radio Daniel",
+    "version": "1.0.0",
+    "parameter": "content:https://shokonick.github.io/data/test.json",
+    "welcome": "none"
+}
